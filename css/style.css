@@ -32,8 +32,8 @@ body{
     width: 100%;
     height: 100%;
     background-color: black rgb;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+
 }
 
 h1{
